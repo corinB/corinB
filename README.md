@@ -31,7 +31,7 @@
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Le Robot](https://img.shields.io/badge/Le%20Robot-FF6B35?style=for-the-badge&logoColor=white)
 ![SSD-MobileNet-v2](https://img.shields.io/badge/SSD--MobileNet--v2-FF6F00?style=for-the-badge&logoColor=white)
-![SmoLab](https://img.shields.io/badge/SmoLab-4285F4?style=for-the-badge&logoColor=white)
+![SmoVLM](https://img.shields.io/badge/SmoVLM-6B73FF?style=for-the-badge&logoColor=white)
 
 ### 데이터베이스
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
