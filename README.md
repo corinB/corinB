@@ -2,19 +2,17 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:87ceeb,100:a29bfe&height=320&section=header&text=%EB%8C%80%EA%B5%AC%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EA%B3%BC%20AI/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84%EC%9D%84%20%ED%83%90%EA%B5%AC&descAlignY=55&descAlign=50" alt="웹 개발과 AI를 탐구하는 파도형 헤더" width="100%" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=corinB&theme=dark&border_radius=10&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub 기여 스트릭 카드" />
+  </a>
+</p>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=900&size=34&pause=1000&color=FF6C00&background=F3F3F34B&center=true&vCenter=true&width=620&height=120&lines=%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EB%8B%AC%EB%A6%AC%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%EB%8F%84;%EB%8F%84%EC%A0%84%EC%9D%80%20%EC%A7%91%EC%9A%94%ED%95%98%EA%B2%8C%2C%20%EC%97%B4%EC%A0%95%EC%9D%80%20%EA%BE%B8%EC%A4%80%ED%95%98%EA%B2%8C" alt="읽는 즐거움을 주는 타이핑 애니메이션" />
   </a>
 </p>
-<br>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=corinB&theme=dark&border_radius=10&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub 기여 스트릭 카드" />
-  </a>
-</p>
-
 > 💡 대구대학교 컴퓨터공학과에서 웹 개발과 AI/컴퓨터 비전을 깊이 있게 다루고 있습니다.
 
 ---
