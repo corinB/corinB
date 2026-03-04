@@ -29,6 +29,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/corinB/corinB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🧭 About
 
 - 🎓 대구대학교 컴퓨터공학과 졸업
