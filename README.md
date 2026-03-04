@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/corinB">
-    <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Fgithub.com%2FcorinB&theme=dark&bg=ff7eb3&title=Profile+Views" alt="Hits" />
+    <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Fgithub.com%2FcorinB&theme=dark&bg=ff7eb3&title=Profile+Views&v=1" alt="Hits" />
   </a>
 </div>
 
@@ -22,19 +22,18 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=corinB&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="corinB Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=corinB&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&v=1" alt="corinB Trophies" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corinB&show_icons=true&theme=dark&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=corinB&show_icons=true&theme=dark&hide_border=true&bg_color=1A1B27&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=corinB&theme=dark&hide_border=true&background=1A1B27&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinB&layout=compact&theme=dark&hide_border=true&bg_color=1A1B27" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinB&layout=compact&theme=dark&hide_border=true&bg_color=1A1B27&v=1" alt="Top Languages" width="60%" />
 </p>
-
 ---
 
 ## 🧭 About
