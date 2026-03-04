@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=900&size=34&pause=1000&color=FF6C00&background=F3F3F34B&center=true&vCenter=true&width=620&height=120&lines=%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EB%8B%AC%EB%A6%AC%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%EB%8F%84;%EB%8F%84%EC%A0%84%EC%9D%80%20%EC%A7%91%EC%9A%94%ED%95%98%EA%B2%8C%2C%20%EC%97%B4%EC%A0%95%EC%9D%80%20%EA%BE%B8%EC%A4%80%ED%95%98%EA%B2%8C" alt="읽는 즐거움을 주는 타이핑 애니메이션" />
   </a>
 </p>
-> 💡 대구대학교 컴퓨터공학과를 졸업한 백엔드 개발자 지망생 입니
+> 💡 대구대학교 컴퓨터공학과를 졸업한 백엔드 개발자 지망생 입니다
 
 ---
 
