@@ -1,15 +1,8 @@
 # 🚀 웹 개발과 AI/컴퓨터 비전을 탐구하는 컴퓨터공학도
 
-<div align="center">
-  <a href="https://github.com/corinB">
-    <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Fgithub.com%2FcorinB&theme=dark&bg=ff7eb3&title=Profile+Views&v=1" alt="Hits" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:87ceeb,100:a29bfe&height=320&section=header&text=%EB%8C%80%EA%B5%AC%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EA%B3%BC%20AI/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84%EC%9D%84%20%ED%83%90%EA%B5%AC&descAlignY=55&descAlign=50" alt="웹 개발과 AI를 탐구하는 파도형 헤더" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=900&size=34&pause=1000&color=FF6C00&background=F3F3F34B&center=true&vCenter=true&width=620&height=120&lines=%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EB%8B%AC%EB%A6%AC%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%EB%8F%84;%EB%8F%84%EC%A0%84%EC%9D%80%20%EC%A7%91%EC%9A%94%ED%95%98%EA%B2%8C%2C%20%EC%97%B4%EC%A0%95%EC%9D%80%20%EA%BE%B8%EC%A4%80%ED%95%98%EA%B2%8C" alt="읽는 즐거움을 주는 타이핑 애니메이션" />
@@ -18,22 +11,22 @@
 
 ---
 
-## 🏆 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=corinB&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&v=1" alt="corinB Trophies" />
-  </a>
-</p>
+## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corinB&show_icons=true&theme=dark&hide_border=true&bg_color=1A1B27&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=corinB&theme=dark&hide_border=true&background=1A1B27&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=corinB&theme=dark&hide_border=true&background=1A1B27&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/corinB?style=for-the-badge&logo=github&color=1A1B27&labelColor=333333" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/corinB?style=for-the-badge&logo=github&color=1A1B27&labelColor=333333" alt="Stars" />
+</div>
+<div align="center">
+  <a href="https://github.com/corinB">
+    <img src="https://komarev.com/ghpvc/?username=corinB&color=ff7eb3&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinB&layout=compact&theme=dark&hide_border=true&bg_color=1A1B27&v=1" alt="Top Languages" width="60%" />
-</p>
 ---
 
 ## 🧭 About
@@ -127,15 +120,13 @@
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Links
 
-- `qorwhdgus1234@naver.com`  
+<div align="center">
   <a href="mailto:qorwhdgus1234@naver.com">
-  <img src="https://img.shields.io/badge/email-qorwhdgus1234%40naver.com-ff7eb3?style=flat-square&logo=minutemailer&logoColor=white" alt="네이버 메일 문의 배지" />
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="네이버 메일" />
   </a>
-- `gkdisrha2020@gmail.com`  
   <a href="mailto:gkdisrha2020@gmail.com">
-  <img src="https://img.shields.io/badge/email-gkdisrha2020%40gmail.com-ffa94d?style=flat-square&logo=gmail&logoColor=white" alt="지메일 문의 배지" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="지메일" />
   </a>
-
----
+</div>
